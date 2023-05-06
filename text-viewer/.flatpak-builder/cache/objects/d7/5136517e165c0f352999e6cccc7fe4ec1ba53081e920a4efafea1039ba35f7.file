@@ -1,0 +1,4 @@
+[Application]
+name=com.example.TextViewer
+runtime=org.gnome.Platform/aarch64/master
+sdk=org.gnome.Sdk/aarch64/master
